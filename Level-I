@@ -29,3 +29,25 @@
 js файл который сам добавляет их(меню и шапку) в начало тела(тега body). Применял JQuery, JQuery UI,
 SublimeText, Адаптивную верстку(в итоге работала неправильно и я ее убрал), 
 
+# Q3 
+# При разработке интерфейсов с использованием компонентной архитектуры часто
+# используются термины Presentational Сomponents и Сontainer Сomponents. Что
+# означают данные термины? Зачем нужно такое разделение, какие у него есть
+# плюсы и минусы? 
+
+Нет ответа
+
+# Q4
+# Как устроено наследование в JS? Расскажите о своем опыте реализации JS наследования
+# без использования фреймворков. 
+
+childObjetct<-parentObject(наследование объектов):
+childObjetct.__proto__ = parentObject;
+
+childClass<-parentObject(наследование классов у объектов):
+childClass.prototype = parentObject;
+
+childClass<-parentClass(наследование классов):
+childClass.prototype = Object.create(parentClass.prototype);
+
+Один раз на собеседовании пригодилось
