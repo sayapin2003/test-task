@@ -72,7 +72,7 @@ childClass.prototype = Object.create(parentClass.prototype);
 # Q7 
 # Расскажите, какие инструменты помогают вам экономить время в процессе
 # написания, проверки и отладки кода. 
-SublimeText(с дополнениями), consol.log(),time() и т.д.
+SublimeText(+emmet и др. дополнения), console.log(),time() и т.д.
 
 # Q8
 # Какие ресурсы вы используете для развития в профессиональной сфере? Приведите
@@ -80,7 +80,7 @@ SublimeText(с дополнениями), consol.log(),time() и т.д.
 # Какие ещё области знаний, кроме тех, что непосредственно относятся к работе,
 # вам интересны? 
 
-learn.javascript.ru, stackoverflow.com
+learn.javascript.ru, stackoverflow.com, wisdomweb.ru(и все что попадется в гугле)
 Рисование, Написание музыки, Игра на музыкальных инструментах, Высшая Математика, Физика
 
 # Q9
