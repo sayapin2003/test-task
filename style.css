@@ -1,0 +1,18 @@
+#map {
+    width: 45%;
+    height: 90%;
+    position: absolute;
+    left: 51%;
+    top: 1%; 
+}
+#list{
+    width: 50%;
+    height: 90%;
+
+}
+#list #name{
+    width:70%;
+}
+#list #add{
+    width: 20%;
+}
